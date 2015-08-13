@@ -1,5 +1,5 @@
 # iOS
-A collection of some of my opensource iOS projects.  Many of these were created to use as example instructional material for iD Tech.  Unfortunately I am unable to share some of my more interesting iOS apps as they were done for companies.
+A collection of some of my opensource iOS projects.  Many of these were created to use as example instructional material for iD Tech.  Unfortunately I am unable to share some of my more interesting iOS apps as they are no longer my property.
 
 ## Repository Structure
 * iOS/ -- The top level directory
